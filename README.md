@@ -1,7 +1,7 @@
 # Algorithmic_Trading_with_Model_Uncertainty
 This repository contains the implementation of the robust optimal strategies proposed in the paper: [Cartea, Á., Donnelly, R., &amp; Jaimungal, S. (2017). Algorithmic Trading with Model Uncertainty. SIAM Journal on Financial Mathematics, 8(1), 635–671](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2310645). 
 
-## Overview 
+## Overview
 The code in this repository reproduces the robust market making strategies derived in the paper and the associated numerical simulations. It also includes a comparison between the robust strategy and a plain optimal (non-robust) strategy. 
 
 ## Features
